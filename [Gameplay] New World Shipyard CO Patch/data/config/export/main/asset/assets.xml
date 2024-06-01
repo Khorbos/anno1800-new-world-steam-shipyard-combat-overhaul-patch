@@ -1,0 +1,74 @@
+<ModOps>
+  <!-- Remove from Build Menu Steam Shipyard -->
+  <ModOp Type="remove" GUID="2001000001" Path="/Values/Shipyard/AssemblyOptions/Item[Vehicle = '1010062']"> <!--Cargo Ship-->
+  </ModOp>
+  <ModOp Type="remove" GUID="2001000001" Path="/Values/Shipyard/AssemblyOptions/Item[Vehicle = '100442']"> <!--Battle Cruiser-->
+  </ModOp>
+  <ModOp Type="remove" GUID="2001000001" Path="/Values/Shipyard/AssemblyOptions/Item[Vehicle = '100443']"> <!--Monitor-->
+  </ModOp>
+  <ModOp Type="remove" GUID="2001000001" Path="/Values/Shipyard/AssemblyOptions/Item[Vehicle = '968']"> <!--Flamethrower Monitor-->
+  </ModOp>
+  <ModOp Type="remove" GUID="2001000001" Path="/Values/Shipyard/AssemblyOptions/Item[Vehicle = '1537']"> <!--Blue Flamethrower Monitor-->
+  </ModOp>
+  <ModOp Type="remove" GUID="2001000001" Path="/Values/Shipyard/AssemblyOptions/Item[Vehicle = '100853']"> <!--Oil Tanker-->
+  </ModOp>
+  <ModOp Type="remove" GUID="2001000001" Path="/Values/Shipyard/AssemblyOptions/Item[Vehicle = '118718']"> <!--Great Eastern-->
+  </ModOp>
+  <ModOp Type="remove" GUID="2001000001" Path="/Values/Shipyard/AssemblyOptions/Item[Vehicle = '720']"> <!--Flak Monitor-->
+  </ModOp>
+  
+  <!-- Add to Build menu Steam Shipyard -->
+  <ModOp Type="add" GUID="2001000001" Path="/Values/Shipyard/AssemblyOptions">
+	<Item>
+      <Vehicle>6700071</Vehicle> <!--Cargo Boat-->
+    </Item>
+	<Item>
+      <Vehicle>1010062</Vehicle> <!--Cargo Ship-->
+    </Item>
+	<Item>
+      <Vehicle>100443</Vehicle> <!--Monitor-->
+    </Item>
+	<Item>
+      <Vehicle>6800093</Vehicle> <!--AI Improved Monitor-->
+    </Item>
+	<Item>
+      <Vehicle>720</Vehicle> <!--Flak Monitor-->
+    </Item>
+	<Item>
+      <Vehicle>968</Vehicle> <!--Flamethrower Monitor-->
+    </Item>
+	<Item>
+      <Vehicle>1537</Vehicle> <!--Blue Flamethrower Monitor-->
+    </Item>
+	<Item>
+      <Vehicle>6800040</Vehicle> <!--Ironclad-->
+    </Item>
+	<Item>
+      <Vehicle>100853</Vehicle> <!--Oil Tanker-->
+    </Item>
+	<Item>
+      <Vehicle>100442</Vehicle> <!--Battle Cruiser-->
+    </Item>
+	<Item>
+      <Vehicle>6700047</Vehicle> <!--Reefer Ship-->
+    </Item>
+	<Item>
+      <Vehicle>6700060</Vehicle> <!--Huge Collier-->
+    </Item>
+	<Item>
+      <Vehicle>6700107</Vehicle> <!--Petrolier-->
+    </Item>
+	<Item>
+      <Vehicle>6800030</Vehicle> <!--Battleship-->
+    </Item>
+	<Item>
+      <Vehicle>6799986</Vehicle> <!--Dreadnought Permit-->
+    </Item>
+	<Item>
+      <Vehicle>6799984</Vehicle> <!--AI Dreadnought-->
+    </Item>
+	<Item>
+      <Vehicle>118718</Vehicle> <!--Great Eastern-->
+    </Item>
+  </ModOp>
+</ModOps>

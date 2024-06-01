@@ -1,0 +1,53 @@
+{
+  "Version": "1.0",
+  "ModID": "Khobs_NWShipCombatOverhaul",
+  "IncompatibleIds": null,
+  "ModDependencies": [
+    "[Gameplay] 01 Combat Overhaul Ships",
+    "Khobs_NWShipyard",
+  ],
+  "Category": {
+    "Chinese": null,
+    "English": "Gameplay",
+    "French": "Jouabilité",
+    "German": "Spielablauf",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": null,
+    "English": "New World Steam Shipyard with Combat Overhaul Ships compatibility",
+    "French": "Chantier Naval du Nouveau Monde avec compatibilité Combat Overhaul",
+    "German": null,
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "New World Steam Shipyard now have 'Combat Overhaul' ships compatibility.",
+    "French": "Compatibilité des navires 'Combat Overhaul' dans le chantier naval du Nouveau Monde.",
+    "German": null,
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": [],
+  "CreatorName": "Khobs",
+  "CreatorContact": "",
+  "Image" : null
+}
